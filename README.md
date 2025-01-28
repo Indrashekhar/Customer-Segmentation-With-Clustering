@@ -130,3 +130,11 @@ It also highlights the fact that there are a number of outliers and hence datapo
 ![image](https://github.com/user-attachments/assets/ae88feef-bbc3-4204-b03e-258c68423c65)
 
 ![image](https://github.com/user-attachments/assets/7d5c9135-5815-431d-9968-09cd8d638499)
+
+![image](https://github.com/user-attachments/assets/3c335d90-451d-443f-ae1c-06ce3e30c698)
+
+![image](https://github.com/user-attachments/assets/44e526d8-0252-4278-a960-f7a1889091b4)
+
+![image](https://github.com/user-attachments/assets/878e7a72-89b3-46fa-af29-0a981d84673d)
+
+
