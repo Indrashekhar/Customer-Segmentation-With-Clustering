@@ -35,13 +35,7 @@ Since we have a transnational data set, which implies customers from different c
 * **Customer lifetime value (CLV)** indicates the average or total value a customer contributes to a business over the course of their relationship. In other words, CLV is a metric of the total income a business can expect to generate from a customer as long as said customer remains a loyal client. CLV helps to prioritise marketing efforts and resources as it focuses on customers who are expected to bring the most value over time. Therefore, retaining high-value customers.
 * The **average unit cost** indicates if the customer prefers low cost or high cost items. This is related to the profitability of purchases. Customers buying products with a higher average unit cost price should be targeted differently. Customer segmentation assists in identifying these customers.
 
+## Objective
 Your task is to develop a robust customer segmentation to assist the e-commerce company in understanding and serving its customers better. This will help to have a more customer-centric focus, improving marketing efficiency. Therefore, you’ll explore the data, employ preprocessing and feature engineering, dimension reduction, and perform customer segmentation with clustering models.
 
-Prepare a report that illustrates your insights to the prospective stakeholders, showing how your solution will save the business money and build trust with its stakeholders. At this stage of the project, the five main questions you need to consider are:
 
-1. What insights can be gained from the data, and what recommendations can be made to the company based on these insights? 
-2. Which features can be deleted, selected, and combined (feature creation) to effectively segment customers based on the five metrics (frequency, recency, CLV, average unit cost)?
-3. Are there more features beyond the suggested ones that would help in better segmentation
-4. Based on this data set, which statistical or ML technique is the best for determining the optimum number of clusters ( k )?
-5. How do the clusters compare based on frequency, recency, CLV, and average unit cost?
-6. What did you deduce from the dimensional reduction analysis?
