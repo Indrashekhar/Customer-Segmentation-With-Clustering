@@ -60,3 +60,14 @@ Your task is to develop a robust customer segmentation to assist the e-commerce 
 
 ### Descriptive statistics
 
+![image](https://github.com/user-attachments/assets/2de26616-c83a-440a-834b-448c6b460c4d)
+
+![image](https://github.com/user-attachments/assets/c39c6dd1-0504-4a16-92f1-f37ba710a3ca)
+
+![image](https://github.com/user-attachments/assets/6f59a294-1a7f-436b-a5f5-99733f8668a2)
+
+![image](https://github.com/user-attachments/assets/5b1d03d4-9f29-4fd4-aa03-26abd6500d2e)
+
+### Visualise the data to determine the distribution and extreme values
+
+![image](https://github.com/user-attachments/assets/11727b50-c0ea-4d4f-a13b-7cb9e76e1fe7)
