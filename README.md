@@ -38,9 +38,13 @@ Since we have a transnational data set, which implies customers from different c
 ## Objective
 Your task is to develop a robust customer segmentation to assist the e-commerce company in understanding and serving its customers better. This will help to have a more customer-centric focus, improving marketing efficiency. Therefore, you’ll explore the data, employ preprocessing and feature engineering, dimension reduction, and perform customer segmentation with clustering models.
 
+## Solution
+
 ![image](https://github.com/user-attachments/assets/096bf4f1-e1c1-47a1-82d4-588f4b8dbe9d)
 
-![image](https://github.com/user-attachments/assets/8f3729ff-9a32-406e-95a4-37ad21f9c544)
+### View DataFrame and perform EDA
+
+![image](https://github.com/user-attachments/assets/39c7688b-2219-4f51-b084-05ac3fde65a7)
 
 ![image](https://github.com/user-attachments/assets/3991fac5-2534-458f-a2b1-b0f495a88968)
 
@@ -54,5 +58,5 @@ Your task is to develop a robust customer segmentation to assist the e-commerce 
 
 ![image](https://github.com/user-attachments/assets/2d81c53b-2942-430f-8acd-5c913e94c824)
 
-
+### Descriptive statistics
 
