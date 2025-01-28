@@ -114,13 +114,19 @@ Examining all the other Silhouette plots, they all seem to have clusters that ha
 
 ![image](https://github.com/user-attachments/assets/e2a2fe9e-fe83-4ef4-96a6-25a6eeac1667)
 
+![image](https://github.com/user-attachments/assets/19a107f7-d473-4e18-ac4d-206d98b3fd9b)
+
 ![image](https://github.com/user-attachments/assets/23196771-007f-4150-9b66-3b60cb6267c4)
 
 ![image](https://github.com/user-attachments/assets/4ee5072a-e65a-4347-b9c2-160570d672a5)
 
+![image](https://github.com/user-attachments/assets/9a223a16-07f5-4f9e-b505-107355c50b9c)
+
 ![image](https://github.com/user-attachments/assets/37843a3b-5e6f-4cd0-9424-05a708d01f88)
 
 ![image](https://github.com/user-attachments/assets/c6b63923-3b2a-48a2-be52-c98f3f5126f5)
+
+![image](https://github.com/user-attachments/assets/910ed01d-8187-47cc-844c-36a8dc4719e7)
 
 The plots for the hierarchical clustering for ward method when plotted against features reduced using either PCA or t-SNE have the most distinct clusters although it shows there is low inter cluster separation. This suggests that there is possibility of alternate clustering option if necessary. A smaller number of clustering formation could be achieved if the company is restrained by resources.
 
