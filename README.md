@@ -122,4 +122,11 @@ Examining all the other Silhouette plots, they all seem to have clusters that ha
 
 ![image](https://github.com/user-attachments/assets/c6b63923-3b2a-48a2-be52-c98f3f5126f5)
 
+The plots for the hierarchical clustering for ward method when plotted against features reduced using either PCA or t-SNE have the most distinct clusters although it shows there is low inter cluster separation. This suggests that there is possibility of alternate clustering option if necessary. A smaller number of clustering formation could be achieved if the company is restrained by resources.
 
+It also highlights the fact that there are a number of outliers and hence datapoints from one cluster is spilling over to the next.
+
+### Calculate k-means
+![image](https://github.com/user-attachments/assets/ae88feef-bbc3-4204-b03e-258c68423c65)
+
+![image](https://github.com/user-attachments/assets/7d5c9135-5815-431d-9968-09cd8d638499)
