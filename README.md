@@ -137,4 +137,8 @@ It also highlights the fact that there are a number of outliers and hence datapo
 
 ![image](https://github.com/user-attachments/assets/878e7a72-89b3-46fa-af29-0a981d84673d)
 
+After having performed multiple clustering models such as k-means clustering and Hierarchical clustering method, they all indicate that customers can be clustered into 4 groups to improve marketing efforts and customer satisfaction.
 
+However, it also showed that some clusters had low cohesion and there was low inter cluster separation. This highlighted the vast number of outliers in the data and indicated that the number of clusters could be reduced to achieve higher intra-cluster cohesion or should there be restraint on resource.
+
+Elbow method and Silhouette Score were employed to determine the best k value and dimension reduction methods such as PCA and t-SNE were used to help with 2D visualisation.
