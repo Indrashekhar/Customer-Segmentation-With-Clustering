@@ -108,5 +108,18 @@ Examining the Silhouette plot with 4 clusters, 2 of the clusters seem to have ne
 
 Examining all the other Silhouette plots, they all seem to have clusters that have negative coefficients. This suggests that there are large number of outliers. This is consistent with the box plot drawn previously.
 
+### Hierarchical clustering
+
+![image](https://github.com/user-attachments/assets/4a3e94e5-4c90-4748-9143-363cf99ec34e)
+
+![image](https://github.com/user-attachments/assets/e2a2fe9e-fe83-4ef4-96a6-25a6eeac1667)
+
+![image](https://github.com/user-attachments/assets/23196771-007f-4150-9b66-3b60cb6267c4)
+
+![image](https://github.com/user-attachments/assets/4ee5072a-e65a-4347-b9c2-160570d672a5)
+
+![image](https://github.com/user-attachments/assets/37843a3b-5e6f-4cd0-9424-05a708d01f88)
+
+![image](https://github.com/user-attachments/assets/c6b63923-3b2a-48a2-be52-c98f3f5126f5)
 
 
