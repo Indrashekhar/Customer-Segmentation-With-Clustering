@@ -40,4 +40,19 @@ Your task is to develop a robust customer segmentation to assist the e-commerce 
 
 ![image](https://github.com/user-attachments/assets/096bf4f1-e1c1-47a1-82d4-588f4b8dbe9d)
 
+![image](https://github.com/user-attachments/assets/8f3729ff-9a32-406e-95a4-37ad21f9c544)
+
+![image](https://github.com/user-attachments/assets/3991fac5-2534-458f-a2b1-b0f495a88968)
+
+![image](https://github.com/user-attachments/assets/bc325d42-e486-401b-ae00-e86529d0a4e9)
+
+![image](https://github.com/user-attachments/assets/dc31316a-5641-4b7f-b543-242efb370bbd)
+
+![image](https://github.com/user-attachments/assets/af55d477-77e8-41f1-af84-9b94ad03ae10)
+
+![image](https://github.com/user-attachments/assets/32c72b0a-ff84-4991-92c8-5f22d14426a7)
+
+![image](https://github.com/user-attachments/assets/2d81c53b-2942-430f-8acd-5c913e94c824)
+
+
 
