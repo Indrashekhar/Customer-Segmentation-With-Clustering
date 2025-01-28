@@ -87,13 +87,9 @@ As per the elbow method shown above the number of clusters where the rate of dec
 ### Select k with Silhouette method
 
 For n_clusters = 2 The average silhouette_score is : 0.4345625183689278
-
 For n_clusters = 3 The average silhouette_score is : 0.4414029300712657
-
 For n_clusters = 4 The average silhouette_score is : 0.4103105664115391
-
 For n_clusters = 5 The average silhouette_score is : 0.38895417199351207
-
 For n_clusters = 6 The average silhouette_score is : 0.3394110821082939
 
 ![image](https://github.com/user-attachments/assets/dee5d8b3-cad0-4ff4-9ada-855afd089dcf)
@@ -106,7 +102,11 @@ For n_clusters = 6 The average silhouette_score is : 0.3394110821082939
 
 ![image](https://github.com/user-attachments/assets/797c2287-8e52-49ca-b3e8-6a30e5f99bc5)
 
+According to the Silhouette scores, the optimal number of clusters is 3. However, looking at the Silhouette plot, it indicates that one of the clusters has a negative coefficient suggesting low cohesion.
 
+Examining the Silhouette plot with 4 clusters, 2 of the clusters seem to have negative scores. Comparatively, this is less in negative compared to the one with 3 clusters. Therefore, even though 3 clusters have a better Silhouette score, 4 clusters seem to have better cohesion.
+
+Examining all the other Silhouette plots, they all seem to have clusters that have negative coefficients. This suggests that there are large number of outliers. This is consistent with the box plot drawn previously.
 
 
 
