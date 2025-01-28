@@ -1,4 +1,4 @@
-# Customer-Segmentation-With-Clustering
+# Customer Segmentation with Clustering
 
 # Business context
 You are provided an e-commerce data set from a real-world organisation to perform customer segmentation with clustering models to improve marketing efforts (SAS, 2024). It is a transnational data set with customers from five continents (Oceania, North America, Europe, Africa, and Asia) and 47 countries.
