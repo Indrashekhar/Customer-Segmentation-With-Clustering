@@ -71,3 +71,11 @@ Your task is to develop a robust customer segmentation to assist the e-commerce 
 ### Visualise the data to determine the distribution and extreme values
 
 ![image](https://github.com/user-attachments/assets/11727b50-c0ea-4d4f-a13b-7cb9e76e1fe7)
+
+![image](https://github.com/user-attachments/assets/80fd85d7-49d6-4a01-aa71-60295ae20c2f)
+
+### Select k with Elbow method
+
+![image](https://github.com/user-attachments/assets/5d9396b7-f6b1-44fc-9a6b-aca5409e27c2)
+
+As per the elbow method shown above the number of clusters where the rate of decrease in within-cluster variation starts to diminish is 4. This suggests that there should be 4 customer segments that marketing efforts can target to enhance customer satisfaction and drive business growth.
