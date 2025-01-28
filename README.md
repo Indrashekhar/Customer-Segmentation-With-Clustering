@@ -79,3 +79,30 @@ Your task is to develop a robust customer segmentation to assist the e-commerce 
 ![image](https://github.com/user-attachments/assets/5d9396b7-f6b1-44fc-9a6b-aca5409e27c2)
 
 As per the elbow method shown above the number of clusters where the rate of decrease in within-cluster variation starts to diminish is 4. This suggests that there should be 4 customer segments that marketing efforts can target to enhance customer satisfaction and drive business growth.
+
+### Feature reduction using PCA and t-SNE
+
+![image](https://github.com/user-attachments/assets/0f8c2f81-8d4a-4aa9-97f0-6ad59ce1239d)
+
+### Select k with Silhouette method
+
+For n_clusters = 2 The average silhouette_score is : 0.4345625183689278
+For n_clusters = 3 The average silhouette_score is : 0.4414029300712657
+For n_clusters = 4 The average silhouette_score is : 0.4103105664115391
+For n_clusters = 5 The average silhouette_score is : 0.38895417199351207
+For n_clusters = 6 The average silhouette_score is : 0.3394110821082939
+
+![image](https://github.com/user-attachments/assets/dee5d8b3-cad0-4ff4-9ada-855afd089dcf)
+
+![image](https://github.com/user-attachments/assets/aebdde7e-8aac-4552-ac97-4dfa640b9036)
+
+![image](https://github.com/user-attachments/assets/6c0225b3-61a2-4bf5-b7d5-7ed157b89a45)
+
+![image](https://github.com/user-attachments/assets/bf55ba19-9801-4d80-a100-b0b5b82a9e21)
+
+![image](https://github.com/user-attachments/assets/797c2287-8e52-49ca-b3e8-6a30e5f99bc5)
+
+
+
+
+
