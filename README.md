@@ -87,9 +87,13 @@ As per the elbow method shown above the number of clusters where the rate of dec
 ### Select k with Silhouette method
 
 For n_clusters = 2 The average silhouette_score is : 0.4345625183689278
+
 For n_clusters = 3 The average silhouette_score is : 0.4414029300712657
+
 For n_clusters = 4 The average silhouette_score is : 0.4103105664115391
+
 For n_clusters = 5 The average silhouette_score is : 0.38895417199351207
+
 For n_clusters = 6 The average silhouette_score is : 0.3394110821082939
 
 ![image](https://github.com/user-attachments/assets/dee5d8b3-cad0-4ff4-9ada-855afd089dcf)
