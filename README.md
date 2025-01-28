@@ -96,9 +96,9 @@ For n_clusters = 6 The average silhouette_score is : 0.3394110821082939
 
 ![image](https://github.com/user-attachments/assets/aebdde7e-8aac-4552-ac97-4dfa640b9036)
 
-![image](https://github.com/user-attachments/assets/6c0225b3-61a2-4bf5-b7d5-7ed157b89a45)
+![image](https://github.com/user-attachments/assets/c7b67263-0c66-4f6d-aa02-4ccef93aba34)
 
-![image](https://github.com/user-attachments/assets/bf55ba19-9801-4d80-a100-b0b5b82a9e21)
+![image](https://github.com/user-attachments/assets/12b53051-7629-466d-9790-e33b7c16afee)
 
 ![image](https://github.com/user-attachments/assets/797c2287-8e52-49ca-b3e8-6a30e5f99bc5)
 
